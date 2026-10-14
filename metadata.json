@@ -1,0 +1,6 @@
+{
+  "name": "Universal AI NFT Factory",
+  "description": "Production-ready AI-powered platform transforming plain-language descriptions into complete, blockchain-ready digital assets, generative collections, asset passports, and marketplace intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
